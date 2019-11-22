@@ -1,1 +1,1 @@
-# fullstack-eureka
+# fullstack-eureka-server

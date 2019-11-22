@@ -1,0 +1,8 @@
+applications:
+- path: target/rfp-eureka-service.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: rfp-eureka-service-mvp
+  host: rfp-eureka-service-mvp
+  disk_quota: 1024M
